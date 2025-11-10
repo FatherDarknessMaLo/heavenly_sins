@@ -1,2 +1,3 @@
-# heavenly_sins
-Github repo for the Heavenly Sins app
+# heavenly_sins_lust_coin
+address for lust 0x933B0dd286488Aa16aA3Dd9AE83DA2D420e042b3
+picture goes here
