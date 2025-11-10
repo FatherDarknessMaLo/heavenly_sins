@@ -1,2 +1,3 @@
-# heavenly_sins
-Github repo for the Heavenly Sins app
+# heavenly_sins_sloth_coin
+address 0xa51E50424a5D5D8aA1DF6c94BB6AcA9698e71003 on polygon blockchain.
+picture goes here
